@@ -3,7 +3,7 @@
   --surface: #ffffff;
   --text: #1e293b;
   --muted: #5b6b7f;
-  --subtitle-size: 0.92rem;
+  --subtitle-size: 0.98rem;
   --primary: #2f6fa3;
   --primary-soft: #e4f0fa;
   --accent: #7bb3de;
@@ -62,7 +62,7 @@ body {
 
 h1 {
   margin: 0 0 6px;
-  font-size: clamp(1.3rem, 1.8vw, 1.7rem);
+  font-size: clamp(1.4rem, 2vw, 1.85rem);
 }
 
 .subtitle {
