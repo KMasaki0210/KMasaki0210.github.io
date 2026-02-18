@@ -3,7 +3,7 @@
   --surface: #ffffff;
   --text: #1e293b;
   --muted: #5b6b7f;
-  --subtitle-size: 1rem;
+  --subtitle-size: 0.92rem;
   --primary: #2f6fa3;
   --primary-soft: #e4f0fa;
   --accent: #7bb3de;
@@ -62,7 +62,7 @@ body {
 
 h1 {
   margin: 0 0 6px;
-  font-size: clamp(1.5rem, 2.2vw, 2rem);
+  font-size: clamp(1.3rem, 1.8vw, 1.7rem);
 }
 
 .subtitle {
@@ -104,10 +104,10 @@ h1 {
   color: #fff;
   background: var(--primary);
   border: 1px solid #2a628f;
-  padding: 7px 12px;
-  font-size: 0.92rem;
+  padding: 6px 10px;
+  font-size: 0.84rem;
   border-radius: 999px;
-  font-weight: 600;
+  font-weight: 500;
   box-shadow: none;
   transition: background-color 0.2s ease;
 }
