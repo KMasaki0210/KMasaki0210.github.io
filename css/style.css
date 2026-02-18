@@ -161,6 +161,14 @@ li {
   background: #e2f0fb;
 }
 
+.music-link {
+  color: #000;
+}
+
+.music-link:visited {
+  color: #000;
+}
+
 ul {
   margin: 0;
   padding-left: 20px;
